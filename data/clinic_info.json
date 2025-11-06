@@ -1,0 +1,203 @@
+{
+    "clinic_details": {
+      "name": "HealthCare Plus Clinic",
+      "doctor": "Dr. Rajendra Kumar Gupta, M.D.",
+      "specialization": "General Medicine & Family Practice",
+      "experience": "15+ years",
+      "address": "302 Old Palasia, Indore, Madhya Pradesh 452001",
+      "phone": "+91-731-555-0100",
+      "email": "info@healthcareplus.com",
+      "website": "www.healthcareplus.com"
+    },
+    "location_and_directions": {
+      "address": "302 Old Palasia, Indore, MP 452001",
+      "landmark": "Near Sayaji Hotel, opposite Central Mall",
+      "directions": "From Rajwada: Take AB Road towards Palasia. Turn right at Sayaji Hotel junction. Clinic is 200m ahead on the left side.",
+      "parking": "Free parking available for patients in the building basement. Additional street parking on the side lane.",
+      "public_transport": "Bus stops: Palasia Square (5 min walk), Auto-rickshaws available",
+      "accessibility": "Wheelchair accessible entrance and elevator available"
+    },
+    "hours_of_operation": {
+      "monday_to_friday": "9:00 AM - 1:00 PM, 2:00 PM - 6:00 PM",
+      "saturday": "9:00 AM - 2:00 PM",
+      "sunday": "Closed",
+      "holidays": "Closed on national holidays",
+      "emergency_note": "For medical emergencies outside clinic hours, please visit Bombay Hospital Emergency (24/7) or call 108"
+    },
+    "insurance_and_billing": {
+      "accepted_insurance": [
+        "Star Health Insurance",
+        "ICICI Lombard",
+        "HDFC ERGO",
+        "Bajaj Allianz",
+        "Religare Health Insurance",
+        "Care Health Insurance",
+        "Aditya Birla Health Insurance",
+        "Max Bupa",
+        "Government health schemes (CGHS, ESIC)",
+        "Ayushman Bharat (PMJAY)"
+      ],
+      "payment_methods": [
+        "Cash",
+        "Credit/Debit Cards (Visa, Mastercard, RuPay)",
+        "UPI (Google Pay, PhonePe, Paytm)",
+        "Net Banking",
+        "Insurance direct billing (for empanelled companies)"
+      ],
+      "consultation_fees": {
+        "general_consultation": "₹500",
+        "followup_visit": "₹300",
+        "specialist_consultation": "₹800",
+        "physical_exam": "₹600"
+      },
+      "billing_policy": "Payment is due at the time of service. Insurance claims can be filed directly if your provider is empanelled with us. Reimbursement bills provided for non-empanelled insurance."
+    },
+    "visit_preparation": {
+      "first_visit_requirements": [
+        "Valid Photo ID (Aadhaar, PAN, Driving License, or Passport)",
+        "Insurance card (if applicable)",
+        "Previous medical records or prescriptions",
+        "List of current medications",
+        "Allergy information"
+      ],
+      "what_to_bring": [
+        "Your insurance card and ID",
+        "List of current medications with dosages",
+        "Recent lab reports or imaging (X-rays, MRI, CT scans)",
+        "Referral letter from previous doctor if any",
+        "Health history questionnaire (available on website)"
+      ],
+      "before_appointment": [
+        "Arrive 15 minutes early for registration",
+        "Bring a list of questions or concerns",
+        "Wear comfortable, loose-fitting clothing",
+        "Fast for 8-10 hours if blood work is scheduled",
+        "Bring a family member if needed for support"
+      ]
+    },
+    "policies": {
+      "cancellation_policy": {
+        "notice_required": "24 hours advance notice",
+        "cancellation_fee": "No fee if cancelled 24 hours in advance. ₹200 fee for same-day cancellations or no-shows.",
+        "how_to_cancel": "Call +91-731-555-0100 or email info@healthcareplus.com",
+        "rescheduling": "Free rescheduling if done 24 hours in advance"
+      },
+      "late_arrival_policy": {
+        "grace_period": "10 minutes",
+        "after_grace_period": "Appointments more than 10 minutes late may need to be rescheduled based on doctor availability",
+        "recommendation": "Please call if you're running late, we'll try to accommodate"
+      },
+      "prescription_refill": {
+        "process": "Call or email 48 hours before you need the refill",
+        "pickup": "Prescriptions ready within 24 hours",
+        "controlled_substances": "Require in-person consultation"
+      },
+      "medical_records": {
+        "request_process": "Submit written request with ID proof",
+        "processing_time": "3-5 business days",
+        "fees": "First copy free, ₹50 per page for additional copies",
+        "digital_access": "Available through patient portal"
+      }
+    },
+    "covid19_protocols": {
+      "safety_measures": [
+        "Mandatory mask wearing for all visitors",
+        "Temperature screening at entrance",
+        "Hand sanitization stations available",
+        "Social distancing markers in waiting area",
+        "Enhanced cleaning and disinfection",
+        "HEPA air filters in examination rooms"
+      ],
+      "vaccination_status": "We encourage vaccination but it's not mandatory for appointments",
+      "symptoms_policy": "If you have COVID symptoms (fever, cough, loss of taste/smell), please call before visiting. Telemedicine consultation may be offered.",
+      "telemedicine": "Virtual consultations available for follow-ups and non-emergency cases via video call"
+    },
+    "services_offered": {
+      "general_services": [
+        "Routine check-ups and physical examinations",
+        "Chronic disease management (diabetes, hypertension, thyroid)",
+        "Acute illness treatment (fever, cold, infections)",
+        "Preventive care and health screenings",
+        "Vaccination and immunization",
+        "Minor procedure and wound care",
+        "Health counseling and lifestyle advice",
+        "Pre-employment medical examinations",
+        "Geriatric care",
+        "Women's health check-ups"
+      ],
+      "diagnostic_services": [
+        "ECG",
+        "Blood pressure monitoring",
+        "Blood sugar testing",
+        "Nebulization",
+        "Dressing and suturing",
+        "Lab test collection (reports from partner labs)"
+      ]
+    },
+    "appointment_types": {
+      "general_consultation": {
+        "duration": "30 minutes",
+        "description": "Comprehensive consultation for new complaints, chronic disease management, or routine check-ups",
+        "fee": "₹500"
+      },
+      "followup": {
+        "duration": "15 minutes",
+        "description": "Follow-up visit for previously diagnosed conditions or medication review",
+        "fee": "₹300"
+      },
+      "physical_exam": {
+        "duration": "45 minutes",
+        "description": "Complete physical examination including vitals check and system examination",
+        "fee": "₹600"
+      },
+      "specialist_consultation": {
+        "duration": "60 minutes",
+        "description": "In-depth consultation for complex cases requiring detailed evaluation",
+        "fee": "₹800"
+      }
+    },
+    "frequently_asked_questions": [
+      {
+        "question": "Do I need a referral to see Dr. Gupta?",
+        "answer": "No referral is needed for general consultations. However, if you have insurance that requires referrals for specialists, please check with your insurance provider."
+      },
+      {
+        "question": "Can I get same-day appointments?",
+        "answer": "We try to accommodate same-day appointments for urgent cases. Please call us in the morning, and we'll check availability. For non-urgent cases, we recommend booking in advance."
+      },
+      {
+        "question": "Is telemedicine available?",
+        "answer": "Yes, we offer video consultations for follow-ups and non-emergency cases. Please mention your preference when booking."
+      },
+      {
+        "question": "What if I need to see a specialist?",
+        "answer": "Dr. Gupta can provide referrals to trusted specialists in Indore if your condition requires specialized care. We work with a network of cardiologists, orthopedists, neurologists, and other specialists."
+      },
+      {
+        "question": "Do you provide home visit services?",
+        "answer": "Home visits are available for elderly patients or those unable to travel. Please call to discuss availability and fees."
+      },
+      {
+        "question": "Are lab tests done at the clinic?",
+        "answer": "We collect samples at the clinic and work with certified partner laboratories. Reports are typically available within 24-48 hours."
+      },
+      {
+        "question": "What languages does Dr. Gupta speak?",
+        "answer": "Dr. Gupta is fluent in Hindi, English, and Marathi."
+      },
+      {
+        "question": "Is there a patient portal?",
+        "answer": "Yes, you can access your medical records, lab reports, and prescriptions through our secure patient portal. Registration details will be provided during your first visit."
+      }
+    ],
+    "contact_information": {
+      "appointments": "+91-731-555-0100",
+      "general_inquiries": "info@healthcareplus.com",
+      "emergency": "For emergencies, call 108 or visit nearest emergency room",
+      "whatsapp": "+91-9876543210 (appointment booking only)",
+      "social_media": {
+        "facebook": "facebook.com/healthcareplusclinic",
+        "instagram": "@healthcareplusclinic"
+      }
+    }
+  }

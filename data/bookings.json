@@ -1,0 +1,22 @@
+{
+  "appointments": [
+    {
+      "booking_id": "APPT-20251106-9764",
+      "confirmation_code": "3555MN",
+      "status": "confirmed",
+      "appointment_type": "consultation",
+      "date": "2025-11-06",
+      "start_time": "09:35",
+      "end_time": "10:05",
+      "patient": {
+        "name": "Aman Asati",
+        "email": "amanaasti04@gmail.com",
+        "phone": "+917999942491"
+      },
+      "reason": "headache",
+      "created_at": "2025-11-06T10:50:02.065161",
+      "clinic": "HealthCare Plus Clinic",
+      "doctor": "Dr. Rajendra Kumar Gupta"
+    }
+  ]
+}

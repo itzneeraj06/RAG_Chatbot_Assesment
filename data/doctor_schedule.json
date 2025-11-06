@@ -1,0 +1,91 @@
+{
+    "doctor": "Dr. Rajendra Kumar Gupta",
+    "clinic": "HealthCare Plus Clinic",
+    "timezone": "Asia/Kolkata",
+    "working_hours": {
+      "monday": {
+        "sessions": [
+          {"start": "09:00", "end": "13:00"},
+          {"start": "14:00", "end": "18:00"}
+        ]
+      },
+      "tuesday": {
+        "sessions": [
+          {"start": "09:00", "end": "13:00"},
+          {"start": "14:00", "end": "18:00"}
+        ]
+      },
+      "wednesday": {
+        "sessions": [
+          {"start": "09:00", "end": "13:00"},
+          {"start": "14:00", "end": "18:00"}
+        ]
+      },
+      "thursday": {
+        "sessions": [
+          {"start": "09:00", "end": "13:00"},
+          {"start": "14:00", "end": "18:00"}
+        ]
+      },
+      "friday": {
+        "sessions": [
+          {"start": "09:00", "end": "13:00"},
+          {"start": "14:00", "end": "18:00"}
+        ]
+      },
+      "saturday": {
+        "sessions": [
+          {"start": "09:00", "end": "14:00"}
+        ]
+      },
+      "sunday": {
+        "sessions": []
+      }
+    },
+    "appointment_types": {
+      "consultation": {
+        "name": "General Consultation",
+        "duration_minutes": 30,
+        "description": "Comprehensive consultation for new complaints or routine check-ups"
+      },
+      "followup": {
+        "name": "Follow-up Visit",
+        "duration_minutes": 15,
+        "description": "Follow-up visit for previously diagnosed conditions"
+      },
+      "physical": {
+        "name": "Physical Examination",
+        "duration_minutes": 45,
+        "description": "Complete physical examination"
+      },
+      "specialist": {
+        "name": "Specialist Consultation",
+        "duration_minutes": 60,
+        "description": "In-depth consultation for complex cases"
+      }
+    },
+    "buffer_minutes": 5,
+    "holidays": [
+      "2025-01-26",
+      "2025-03-08",
+      "2025-03-25",
+      "2025-04-11",
+      "2025-04-17",
+      "2025-08-15",
+      "2025-10-02",
+      "2025-10-24",
+      "2025-11-01",
+      "2025-11-15",
+      "2025-12-25"
+    ],
+    "blocked_dates": [
+      {
+        "date": "2025-02-10",
+        "reason": "Medical Conference"
+      },
+      {
+        "date": "2025-02-11",
+        "reason": "Medical Conference"
+      }
+    ]
+  }
